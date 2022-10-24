@@ -1,9 +1,21 @@
+.wrapper {
+    max-width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
 body {
     background-color: white;
+    font-family: 'Comfortaa';
+    font-style: normal;
 }
-h1{
+
+h1 {
     text-align: center;
 }
+
 #blue {
     background-color: #b3e5fc;
 }
